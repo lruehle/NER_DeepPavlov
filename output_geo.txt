@@ -1,0 +1,27 @@
+
+Petersburg : B-GPE
+
+der : B-FAC
+Schestilawotschnaja : I-FAC
+- : I-FAC
+Straﬂe : I-FAC
+
+der : B-FAC
+Liteinaja : I-FAC
+- : I-FAC
+Straﬂe : I-FAC
+
+den : B-FAC
+Newski : I-FAC
+- : I-FAC
+Prospekt : I-FAC
+
+der : B-FAC
+Liteinaja : I-FAC
+- : I-FAC
+Straﬂe : I-FAC
+
+der : B-FAC
+Liteinaja : I-FAC
+- : I-FAC
+Straﬂe : I-FAC

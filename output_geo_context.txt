@@ -1,0 +1,18 @@
+' Petersburg ' [B-GPE] in : ' nicht in einem schönen Märchenlande , sondern in der Residenzstadt Petersburg , in der Schestilawotschnaja - Straße , in der vierten Etage einer sehr großen Mietskaserne '
+
+
+' der ' [B-FAC] in : ' schönen Märchenlande , sondern in der Residenzstadt Petersburg , in der Schestilawotschnaja - Straße , in der vierten Etage einer sehr großen Mietskaserne , in seiner '
+
+
+' der ' [B-FAC] in : ' bemerkte , daß ihn jemand ansah . An der Einmündung der Liteinaja - Straße in den Newski - Prospekt fuhr er infolge einer sehr unangenehmen Empfindung '
+
+
+' den ' [B-FAC] in : ' ansah . An der Einmündung der Liteinaja - Straße in den Newski - Prospekt fuhr er infolge einer sehr unangenehmen Empfindung zusammen , runzelte die Stirn '
+
+
+' der ' [B-FAC] in : ' ließ den Wagen halten und befahl dem Kutscher , nach der Liteinaja - Straße zurückzufahren . Die Sache war die , daß Herr Goljadkin die dringende '
+
+
+' der ' [B-FAC] in : ' , während er bei der Auffahrt eines fünfstöckigen Hauses in der Liteinaja - Straße , wo er seinen Wagen hatte halten lassen , ausstieg ; » '
+
+
